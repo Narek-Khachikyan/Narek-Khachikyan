@@ -16,4 +16,4 @@ I'm a Frontend Developer focused on building responsive and user-friendly web ap
 
 - [GAME-BOUNTY](https://game-bounty.netlify.app) - Interactive game discovery platform featuring advanced search and filtering capabilities. Users can explore curated game recommendations, create custom lists, and filter by genre, platform, and more. Built with React and modern frontend technologies.
 
-- [BRI-GROUP](https://narek-khachikyan.github.io/BRI-GROUP-DEMO/) - Developed a responsive website for a China-Russia transportation company. Collaborated closely with design team to implement pixel-perfect layouts. Delivered project ahead of schedule while exceeding client expectations.
+- [OPP (Investment Platform)](https://dev.opp.xyz/login/investor) - Investment platform connecting syndicates wit h investors **(MVP part)**.
