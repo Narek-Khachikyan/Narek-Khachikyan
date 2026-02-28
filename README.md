@@ -16,4 +16,4 @@ I'm a Frontend Developer focused on building responsive and user-friendly web ap
 
 - [GAME-BOUNTY](https://game-bounty.netlify.app) - Interactive game discovery platform featuring advanced search and filtering capabilities. Users can explore curated game recommendations, create custom lists, and filter by genre, platform, and more. Built with React and modern frontend technologies.
 
-- [OPP (Investment Platform)](https://dev.opp.xyz/login/investor) - Investment platform connecting syndicates wit h investors **(MVP part)**.
+- [OPP (Investment Platform)](https://dev.opp.xyz/login/investor) - Investment platform connecting syndicates with investors **(MVP part)**.
