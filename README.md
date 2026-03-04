@@ -4,7 +4,7 @@ I'm a Frontend Developer focused on building responsive and user-friendly web ap
 
 ## 🛠️ Tech Stack
 - Frontend: React, TypeScript
-- State Management: Redux Toolkit, RTK Query
+- State Management: Redux Toolkit, RTK Query, Zustand
 - Styling: Tailwind CSS, CSS3, HTML5
 
 ## 📫 How to reach me
