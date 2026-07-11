@@ -1,19 +1,29 @@
-# Hi there 👋 
+# Hi there 👋
 
-I'm a Frontend Developer focused on building responsive and user-friendly web applications. Currently studying at the Polytechnic University of Armenia.
+I'm a Software Engineer with a frontend focus, building responsive, accessible, and user-friendly web applications.
+
+I care about clean code, maintainable architecture, performance, product quality, and choosing the right tools for each problem.
+
+Currently studying at the National Polytechnic University of Armenia.
 
 ## 🛠️ Tech Stack
-- Frontend: React, TypeScript
-- State Management: Redux Toolkit, RTK Query, Zustand
-- Styling: Tailwind CSS, CSS3, HTML5
 
-## 📫 How to reach me
-- LinkedIn: [Narek Khachikyan](https://www.linkedin.com/in/narek-khachikyan-2b6b141b6)
-- Email: narek.khachikyan55@gmail.com
+* **Languages:** JavaScript, TypeScript
+* **Frontend:** React, HTML, CSS
+* **State Management:** Redux Toolkit, RTK Query, Zustand
+* **Styling:** Tailwind CSS
+* **AI Development Tools:** Codex, Claude Code, OpenCode
+* **Tools:** Git, GitHub
 
-## 💻 Recent Projects
-- [MDAROBOTIC](https://mdarobotic.ru/) - Built responsive layouts for an e-commerce automation company. Optimized performance by reducing load times 20% through image optimization and code efficiency. Delivered all site changes on schedule while maintaining high quality standards.
+## 📫 How to Reach Me
 
-- [GAME-BOUNTY](https://game-bounty.netlify.app) - Interactive game discovery platform featuring advanced search and filtering capabilities. Users can explore curated game recommendations, create custom lists, and filter by genre, platform, and more. Built with React and modern frontend technologies.
+* **LinkedIn:** [Narek Khachikyan](https://www.linkedin.com/in/narek-khachikyan-2b6b141b6)
+* **Email:** [narek.khachikyan55@gmail.com](mailto:narek.khachikyan55@gmail.com)
 
-- [OPP (Investment Platform)](https://dev.opp.xyz/login/investor) - Investment platform connecting syndicates with investors **(MVP part)**.
+## 💻 Selected Projects
+
+* **[MDAROBOTIC](https://mdarobotic.ru/)** — Built responsive interfaces for an e-commerce automation company. Improved loading performance through image optimization and frontend code refinements.
+
+* **[GAME-BOUNTY](https://game-bounty.netlify.app)** — An interactive game discovery platform featuring advanced search and filtering capabilities. Users can explore curated game recommendations, create custom lists, and filter games by genre, platform, and other criteria.
+
+* **[OPP — Investment Platform](https://dev.opp.xyz/login/investor)** — Contributed to the MVP of an investment platform connecting syndicates with investors.
